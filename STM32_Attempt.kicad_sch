@@ -1374,7 +1374,6 @@
     )
   )
 
-
   (junction (at 175.26 139.7) (diameter 0) (color 0 0 0 0)
     (uuid 062cd518-f3e1-46ea-ad6d-b7368d9d005b)
   )
@@ -3575,7 +3574,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 029ef535-20e2-41fa-ab7f-726b74a9556c)
-    (property "Reference" "D16" (id 0) (at 289.56 180.34 0))
+    (property "Reference" "D50" (id 0) (at 289.56 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 295.91 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3594,7 +3593,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0347273d-52eb-4f38-9238-4576626e3156)
-    (property "Reference" "D7" (id 0) (at 269.24 157.48 0))
+    (property "Reference" "D48" (id 0) (at 269.24 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 254 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3631,7 +3630,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 08dfa5c4-cd5f-40c0-8304-c26b639c515f)
-    (property "Reference" "D41" (id 0) (at 345.44 203.2 0))
+    (property "Reference" "D60" (id 0) (at 345.44 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 330.2 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3684,7 +3683,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 124c3b37-874e-4c58-abfb-e1168c7d431e)
-    (property "Reference" "D55" (id 0) (at 383.54 157.48 0))
+    (property "Reference" "D42" (id 0) (at 383.54 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 368.3 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3703,7 +3702,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 12c315da-17d9-4937-a754-3126193a77e1)
-    (property "Reference" "D24" (id 0) (at 308.61 180.34 0))
+    (property "Reference" "D51" (id 0) (at 308.61 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 314.96 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3722,7 +3721,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 137c7ca5-8e04-45e2-bbce-d58ae5ac5b4c)
-    (property "Reference" "D45" (id 0) (at 364.49 110.49 0))
+    (property "Reference" "D27" (id 0) (at 364.49 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 349.25 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3741,7 +3740,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 156a35b2-8080-444e-b96f-a6502c53eb5e)
-    (property "Reference" "D49" (id 0) (at 364.49 203.2 0))
+    (property "Reference" "D59" (id 0) (at 364.49 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 349.25 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3779,7 +3778,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1a281b26-a407-4df2-b903-985a2395902c)
-    (property "Reference" "D19" (id 0) (at 307.34 64.77 0))
+    (property "Reference" "D14" (id 0) (at 307.34 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 292.1 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3905,7 +3904,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 26fe52b7-4aed-49c9-ae88-677c8ec906c4)
-    (property "Reference" "D37" (id 0) (at 345.44 110.49 0))
+    (property "Reference" "D28" (id 0) (at 345.44 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 330.2 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3924,7 +3923,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2adffece-a421-40e0-9efe-d1937ce59cd9)
-    (property "Reference" "D42" (id 0) (at 365.76 41.91 0))
+    (property "Reference" "D6" (id 0) (at 365.76 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 372.11 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3943,7 +3942,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2d26874e-fba2-4dda-ac68-20001ca45505)
-    (property "Reference" "D22" (id 0) (at 308.61 134.62 0))
+    (property "Reference" "D35" (id 0) (at 308.61 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 314.96 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4072,7 +4071,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3be83330-633d-4f1b-a17d-25b0e46cca30)
-    (property "Reference" "D6" (id 0) (at 270.51 134.62 0))
+    (property "Reference" "D33" (id 0) (at 270.51 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 276.86 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4091,7 +4090,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3dc4aa3d-699e-4970-b1ef-f79ccdb804be)
-    (property "Reference" "D20" (id 0) (at 308.61 87.63 0))
+    (property "Reference" "D19" (id 0) (at 308.61 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 314.96 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4110,7 +4109,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3dfc088e-61c3-4b51-bb11-5581a6ce3b23)
-    (property "Reference" "D46" (id 0) (at 365.76 134.62 0))
+    (property "Reference" "D38" (id 0) (at 365.76 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 372.11 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4129,7 +4128,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3ebf2033-aa4d-4602-9362-ab6b6c4bb34a)
-    (property "Reference" "D40" (id 0) (at 346.71 180.34 0))
+    (property "Reference" "D53" (id 0) (at 346.71 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 353.06 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4164,7 +4163,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 46f1ae8e-b99e-4c02-898c-79cc250f250f)
-    (property "Reference" "D53" (id 0) (at 383.54 110.49 0))
+    (property "Reference" "D26" (id 0) (at 383.54 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 368.3 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4183,7 +4182,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4796e9de-b775-4115-baa2-ccd7b3ab4dcc)
-    (property "Reference" "D30" (id 0) (at 327.66 134.62 0))
+    (property "Reference" "D36" (id 0) (at 327.66 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 334.01 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4220,7 +4219,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 487486bb-4386-45f4-8f5e-3526b32157a6)
-    (property "Reference" "D62" (id 0) (at 403.86 134.62 0))
+    (property "Reference" "D40" (id 0) (at 403.86 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 410.21 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4239,7 +4238,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 49550a4a-c3a8-4b0c-95be-2228297274bf)
-    (property "Reference" "D26" (id 0) (at 327.66 41.91 0))
+    (property "Reference" "D4" (id 0) (at 327.66 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 334.01 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4258,7 +4257,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4c1d6d92-daf2-42d5-b640-fadaade7bb59)
-    (property "Reference" "D48" (id 0) (at 365.76 180.34 0))
+    (property "Reference" "D54" (id 0) (at 365.76 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 372.11 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4277,7 +4276,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4efcbda6-b737-408b-8065-25fc40df551e)
-    (property "Reference" "D8" (id 0) (at 270.51 180.34 0))
+    (property "Reference" "D49" (id 0) (at 270.51 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 276.86 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4312,7 +4311,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 52b74b79-9202-44c8-8150-ea5828c788eb)
-    (property "Reference" "D56" (id 0) (at 384.81 180.34 0))
+    (property "Reference" "D55" (id 0) (at 384.81 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 391.16 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4331,7 +4330,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 52c6cce1-4bc6-4479-b72b-1cc6612bc400)
-    (property "Reference" "D14" (id 0) (at 289.56 134.62 0))
+    (property "Reference" "D34" (id 0) (at 289.56 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 295.91 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4350,7 +4349,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 547b9455-9dca-4c69-9697-c6d54da14ab7)
-    (property "Reference" "D44" (id 0) (at 365.76 87.63 0))
+    (property "Reference" "D22" (id 0) (at 365.76 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 372.11 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4369,7 +4368,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 557cf1a7-9773-47f1-b83d-b9cab5556cb0)
-    (property "Reference" "D17" (id 0) (at 288.29 203.2 0))
+    (property "Reference" "D63" (id 0) (at 288.29 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 273.05 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4388,7 +4387,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5664994b-375e-4ce8-8c8e-19b475e32d02)
-    (property "Reference" "D33" (id 0) (at 326.39 203.2 0))
+    (property "Reference" "D61" (id 0) (at 326.39 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 311.15 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4425,7 +4424,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 576a79f1-c7bd-4b0d-87ff-9e98aa711eaa)
-    (property "Reference" "D60" (id 0) (at 403.86 87.63 0))
+    (property "Reference" "D24" (id 0) (at 403.86 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 410.21 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4463,7 +4462,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5f5bb3a3-b07c-426e-92a4-05af509a8725)
-    (property "Reference" "D64" (id 0) (at 403.86 180.34 0))
+    (property "Reference" "D56" (id 0) (at 403.86 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 410.21 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4498,7 +4497,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 679b26a2-c0eb-48b8-a2e6-6f972a36ac71)
-    (property "Reference" "D43" (id 0) (at 364.49 64.77 0))
+    (property "Reference" "D11" (id 0) (at 364.49 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 349.25 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4517,7 +4516,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6c8e0456-9bb8-459d-8a06-1f1f1f443b5c)
-    (property "Reference" "D65" (id 0) (at 402.59 203.2 0))
+    (property "Reference" "D57" (id 0) (at 402.59 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 387.35 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4571,7 +4570,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 708b156c-27c5-4617-a689-432660bda86a)
-    (property "Reference" "D12" (id 0) (at 289.56 87.63 0))
+    (property "Reference" "D18" (id 0) (at 289.56 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 295.91 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4590,7 +4589,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 70ac4a81-235c-4347-83c0-1355e08247ea)
-    (property "Reference" "D50" (id 0) (at 384.81 41.91 0))
+    (property "Reference" "D7" (id 0) (at 384.81 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 391.16 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4609,7 +4608,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 73b49f82-032a-44e3-beea-dfb75f0d4c72)
-    (property "Reference" "D27" (id 0) (at 326.39 64.77 0))
+    (property "Reference" "D13" (id 0) (at 326.39 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 311.15 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4666,7 +4665,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7545f12b-988b-401b-bd5d-77dfe0c33934)
-    (property "Reference" "D52" (id 0) (at 384.81 87.63 0))
+    (property "Reference" "D23" (id 0) (at 384.81 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 391.16 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4703,7 +4702,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 78441336-611d-47c3-bea4-f661b6aa1e43)
-    (property "Reference" "D3" (id 0) (at 269.24 64.77 0))
+    (property "Reference" "D16" (id 0) (at 269.24 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 254 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4722,7 +4721,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7b586b11-7357-42a4-83bd-2cf3bccb32b1)
-    (property "Reference" "D58" (id 0) (at 403.86 41.91 0))
+    (property "Reference" "D8" (id 0) (at 403.86 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 410.21 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4741,7 +4740,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7bf3d9fe-6f82-4911-8782-37b2fc8283d0)
-    (property "Reference" "D59" (id 0) (at 402.59 64.77 0))
+    (property "Reference" "D9" (id 0) (at 402.59 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 387.35 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4779,7 +4778,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 80a2d343-f579-456f-9c5a-3e45c1825913)
-    (property "Reference" "D9" (id 0) (at 269.24 203.2 0))
+    (property "Reference" "D64" (id 0) (at 269.24 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 254 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4798,7 +4797,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 81e29581-a3a0-457e-be87-8d3b4ae6b6a2)
-    (property "Reference" "D35" (id 0) (at 345.44 64.77 0))
+    (property "Reference" "D12" (id 0) (at 345.44 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 330.2 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4867,7 +4866,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8c076101-5bdf-4c19-8704-ab963ea98a72)
-    (property "Reference" "D57" (id 0) (at 383.54 203.2 0))
+    (property "Reference" "D58" (id 0) (at 383.54 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 368.3 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4920,7 +4919,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8ec32755-f300-49d1-b977-206bd04d58df)
-    (property "Reference" "D4" (id 0) (at 270.51 87.63 0))
+    (property "Reference" "D17" (id 0) (at 270.51 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 276.86 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4958,7 +4957,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 93be5d6a-844e-46ab-9338-4a8464809c4c)
-    (property "Reference" "D15" (id 0) (at 288.29 157.48 0))
+    (property "Reference" "D47" (id 0) (at 288.29 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 273.05 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4977,7 +4976,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 94479943-d985-4637-a4f3-2646a886d5fe)
-    (property "Reference" "D31" (id 0) (at 326.39 157.48 0))
+    (property "Reference" "D45" (id 0) (at 326.39 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 311.15 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4996,7 +4995,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9881fa8e-11e9-4f8f-bc0c-34751a8521d1)
-    (property "Reference" "D34" (id 0) (at 346.71 41.91 0))
+    (property "Reference" "D5" (id 0) (at 346.71 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 353.06 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5050,7 +5049,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a0811a64-5e49-4932-bd95-9cd8bec7602f)
-    (property "Reference" "D18" (id 0) (at 308.61 41.91 0))
+    (property "Reference" "D3" (id 0) (at 308.61 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 314.96 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5069,7 +5068,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a64cc9fa-3565-41a8-9a48-50b4d8442923)
-    (property "Reference" "D36" (id 0) (at 346.71 87.63 0))
+    (property "Reference" "D21" (id 0) (at 346.71 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 353.06 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5107,7 +5106,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ac76dcfe-233c-40e3-a915-7244b85a88c3)
-    (property "Reference" "D11" (id 0) (at 288.29 64.77 0))
+    (property "Reference" "D15" (id 0) (at 288.29 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 273.05 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5161,7 +5160,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b0f1dd2d-ad9e-4a2f-98de-a193c0d11df8)
-    (property "Reference" "D63" (id 0) (at 402.59 157.48 0))
+    (property "Reference" "D41" (id 0) (at 402.59 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 387.35 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5196,7 +5195,7 @@
   (symbol (lib_id "LED:WS2812B") (at 360.68 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b4d145d4-3a26-4300-9874-fb678e2f43d2)
-    (property "Reference" "D47" (id 0) (at 364.49 157.48 0))
+    (property "Reference" "D43" (id 0) (at 364.49 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 349.25 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5232,7 +5231,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b718910d-5e7e-4b6b-8296-0ffdf283276d)
-    (property "Reference" "D2" (id 0) (at 270.51 41.91 0))
+    (property "Reference" "D1" (id 0) (at 270.51 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 276.86 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5369,7 +5368,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c29f76d7-dcb2-4b30-b2ae-48735b9add0a)
-    (property "Reference" "D38" (id 0) (at 346.71 134.62 0))
+    (property "Reference" "D37" (id 0) (at 346.71 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 353.06 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5388,7 +5387,7 @@
   (symbol (lib_id "LED:WS2812B") (at 341.63 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c4600fe6-671e-4c88-98a6-da43a94b4c51)
-    (property "Reference" "D39" (id 0) (at 345.44 157.48 0))
+    (property "Reference" "D44" (id 0) (at 345.44 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 330.2 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5546,7 +5545,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 140.97 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d9251e78-e01b-4cd2-82a8-06fadb30e9c3)
-    (property "Reference" "D54" (id 0) (at 384.81 134.62 0))
+    (property "Reference" "D39" (id 0) (at 384.81 134.62 0))
     (property "Value" "WS2812B" (id 1) (at 391.16 139.1793 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5565,7 +5564,7 @@
   (symbol (lib_id "LED:WS2812B") (at 265.43 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid db96d995-fe0b-4425-9e93-d521f18cd6ab)
-    (property "Reference" "D5" (id 0) (at 269.24 110.49 0))
+    (property "Reference" "D32" (id 0) (at 269.24 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 254 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5600,7 +5599,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ddc4e005-784f-4b8d-8a97-cc839e28ec71)
-    (property "Reference" "D13" (id 0) (at 288.29 110.49 0))
+    (property "Reference" "D31" (id 0) (at 288.29 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 273.05 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5637,7 +5636,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 209.55 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e2af21bc-49cb-4055-8473-5edcca2e62e2)
-    (property "Reference" "D25" (id 0) (at 307.34 203.2 0))
+    (property "Reference" "D62" (id 0) (at 307.34 203.2 0))
     (property "Value" "WS2812B" (id 1) (at 292.1 211.3407 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5656,7 +5655,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 163.83 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e568f2b4-b967-4e9d-9ad7-67d38c9bbdd3)
-    (property "Reference" "D23" (id 0) (at 307.34 157.48 0))
+    (property "Reference" "D46" (id 0) (at 307.34 157.48 0))
     (property "Value" "WS2812B" (id 1) (at 292.1 165.6207 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5694,7 +5693,7 @@
   (symbol (lib_id "LED:WS2812B") (at 379.73 71.12 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e8fd67ba-716f-488f-b502-6ec2cb2f6d01)
-    (property "Reference" "D51" (id 0) (at 383.54 64.77 0))
+    (property "Reference" "D10" (id 0) (at 383.54 64.77 0))
     (property "Value" "WS2812B" (id 1) (at 368.3 72.9107 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5713,7 +5712,7 @@
   (symbol (lib_id "LED:WS2812B") (at 284.48 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid edf6052e-9366-4430-845c-5d53f18d9516)
-    (property "Reference" "D10" (id 0) (at 289.56 41.91 0))
+    (property "Reference" "D2" (id 0) (at 289.56 41.91 0))
     (property "Value" "WS2812B" (id 1) (at 295.91 46.4693 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5749,7 +5748,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 93.98 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f74bd7de-7f70-47cb-b461-45b2c9b644bf)
-    (property "Reference" "D28" (id 0) (at 327.66 87.63 0))
+    (property "Reference" "D20" (id 0) (at 327.66 87.63 0))
     (property "Value" "WS2812B" (id 1) (at 334.01 92.1893 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5768,7 +5767,7 @@
   (symbol (lib_id "LED:WS2812B") (at 398.78 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f8df9ccd-3a7a-45f2-a1d2-22358681c7af)
-    (property "Reference" "D61" (id 0) (at 402.59 110.49 0))
+    (property "Reference" "D25" (id 0) (at 402.59 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 387.35 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5806,7 +5805,7 @@
   (symbol (lib_id "LED:WS2812B") (at 322.58 186.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid faefadc2-fa97-49bf-8ca3-dcee561a622a)
-    (property "Reference" "D32" (id 0) (at 327.66 180.34 0))
+    (property "Reference" "D52" (id 0) (at 327.66 180.34 0))
     (property "Value" "WS2812B" (id 1) (at 334.01 184.8993 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5825,7 +5824,7 @@
   (symbol (lib_id "LED:WS2812B") (at 303.53 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fb230388-7465-49e8-80aa-d4b3d11ea0aa)
-    (property "Reference" "D21" (id 0) (at 307.34 110.49 0))
+    (property "Reference" "D30" (id 0) (at 307.34 110.49 0))
     (property "Value" "WS2812B" (id 1) (at 292.1 118.6307 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6011,196 +6010,196 @@
       (reference "D1") (unit 1) (value "RED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/b718910d-5e7e-4b6b-8296-0ffdf283276d"
-      (reference "D2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/78441336-611d-47c3-bea4-f661b6aa1e43"
-      (reference "D3") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/8ec32755-f300-49d1-b977-206bd04d58df"
-      (reference "D4") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/db96d995-fe0b-4425-9e93-d521f18cd6ab"
-      (reference "D5") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/3be83330-633d-4f1b-a17d-25b0e46cca30"
-      (reference "D6") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/0347273d-52eb-4f38-9238-4576626e3156"
-      (reference "D7") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/4efcbda6-b737-408b-8065-25fc40df551e"
-      (reference "D8") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/80a2d343-f579-456f-9c5a-3e45c1825913"
-      (reference "D9") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/edf6052e-9366-4430-845c-5d53f18d9516"
-      (reference "D10") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/ac76dcfe-233c-40e3-a915-7244b85a88c3"
-      (reference "D11") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/708b156c-27c5-4617-a689-432660bda86a"
-      (reference "D12") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/ddc4e005-784f-4b8d-8a97-cc839e28ec71"
-      (reference "D13") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/52c6cce1-4bc6-4479-b72b-1cc6612bc400"
-      (reference "D14") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/93be5d6a-844e-46ab-9338-4a8464809c4c"
-      (reference "D15") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/029ef535-20e2-41fa-ab7f-726b74a9556c"
-      (reference "D16") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/557cf1a7-9773-47f1-b83d-b9cab5556cb0"
-      (reference "D17") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/a0811a64-5e49-4932-bd95-9cd8bec7602f"
-      (reference "D18") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/1a281b26-a407-4df2-b903-985a2395902c"
-      (reference "D19") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/3dc4aa3d-699e-4970-b1ef-f79ccdb804be"
-      (reference "D20") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/fb230388-7465-49e8-80aa-d4b3d11ea0aa"
-      (reference "D21") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/2d26874e-fba2-4dda-ac68-20001ca45505"
-      (reference "D22") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/e568f2b4-b967-4e9d-9ad7-67d38c9bbdd3"
-      (reference "D23") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/12c315da-17d9-4937-a754-3126193a77e1"
-      (reference "D24") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/e2af21bc-49cb-4055-8473-5edcca2e62e2"
-      (reference "D25") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D3") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/49550a4a-c3a8-4b0c-95be-2228297274bf"
-      (reference "D26") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D4") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/9881fa8e-11e9-4f8f-bc0c-34751a8521d1"
+      (reference "D5") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/2adffece-a421-40e0-9efe-d1937ce59cd9"
+      (reference "D6") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/70ac4a81-235c-4347-83c0-1355e08247ea"
+      (reference "D7") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/7b586b11-7357-42a4-83bd-2cf3bccb32b1"
+      (reference "D8") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/7bf3d9fe-6f82-4911-8782-37b2fc8283d0"
+      (reference "D9") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/e8fd67ba-716f-488f-b502-6ec2cb2f6d01"
+      (reference "D10") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/679b26a2-c0eb-48b8-a2e6-6f972a36ac71"
+      (reference "D11") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/81e29581-a3a0-457e-be87-8d3b4ae6b6a2"
+      (reference "D12") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/73b49f82-032a-44e3-beea-dfb75f0d4c72"
-      (reference "D27") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D13") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/1a281b26-a407-4df2-b903-985a2395902c"
+      (reference "D14") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/ac76dcfe-233c-40e3-a915-7244b85a88c3"
+      (reference "D15") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/78441336-611d-47c3-bea4-f661b6aa1e43"
+      (reference "D16") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/8ec32755-f300-49d1-b977-206bd04d58df"
+      (reference "D17") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/708b156c-27c5-4617-a689-432660bda86a"
+      (reference "D18") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/3dc4aa3d-699e-4970-b1ef-f79ccdb804be"
+      (reference "D19") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/f74bd7de-7f70-47cb-b461-45b2c9b644bf"
+      (reference "D20") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/a64cc9fa-3565-41a8-9a48-50b4d8442923"
+      (reference "D21") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/547b9455-9dca-4c69-9697-c6d54da14ab7"
+      (reference "D22") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/7545f12b-988b-401b-bd5d-77dfe0c33934"
+      (reference "D23") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/576a79f1-c7bd-4b0d-87ff-9e98aa711eaa"
+      (reference "D24") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/f8df9ccd-3a7a-45f2-a1d2-22358681c7af"
+      (reference "D25") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/46f1ae8e-b99e-4c02-898c-79cc250f250f"
+      (reference "D26") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/137c7ca5-8e04-45e2-bbce-d58ae5ac5b4c"
+      (reference "D27") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+    )
+    (path "/26fe52b7-4aed-49c9-ae88-677c8ec906c4"
       (reference "D28") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/3820129d-1d85-4f68-868e-a2dc4c9609b5"
       (reference "D29") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/4796e9de-b775-4115-baa2-ccd7b3ab4dcc"
+    (path "/fb230388-7465-49e8-80aa-d4b3d11ea0aa"
       (reference "D30") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/94479943-d985-4637-a4f3-2646a886d5fe"
+    (path "/ddc4e005-784f-4b8d-8a97-cc839e28ec71"
       (reference "D31") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/faefadc2-fa97-49bf-8ca3-dcee561a622a"
+    (path "/db96d995-fe0b-4425-9e93-d521f18cd6ab"
       (reference "D32") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/5664994b-375e-4ce8-8c8e-19b475e32d02"
+    (path "/3be83330-633d-4f1b-a17d-25b0e46cca30"
       (reference "D33") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/9881fa8e-11e9-4f8f-bc0c-34751a8521d1"
+    (path "/52c6cce1-4bc6-4479-b72b-1cc6612bc400"
       (reference "D34") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/81e29581-a3a0-457e-be87-8d3b4ae6b6a2"
+    (path "/2d26874e-fba2-4dda-ac68-20001ca45505"
       (reference "D35") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/a64cc9fa-3565-41a8-9a48-50b4d8442923"
+    (path "/4796e9de-b775-4115-baa2-ccd7b3ab4dcc"
       (reference "D36") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/26fe52b7-4aed-49c9-ae88-677c8ec906c4"
+    (path "/c29f76d7-dcb2-4b30-b2ae-48735b9add0a"
       (reference "D37") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/c29f76d7-dcb2-4b30-b2ae-48735b9add0a"
+    (path "/3dfc088e-61c3-4b51-bb11-5581a6ce3b23"
       (reference "D38") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/c4600fe6-671e-4c88-98a6-da43a94b4c51"
+    (path "/d9251e78-e01b-4cd2-82a8-06fadb30e9c3"
       (reference "D39") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/3ebf2033-aa4d-4602-9362-ab6b6c4bb34a"
+    (path "/487486bb-4386-45f4-8f5e-3526b32157a6"
       (reference "D40") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/08dfa5c4-cd5f-40c0-8304-c26b639c515f"
+    (path "/b0f1dd2d-ad9e-4a2f-98de-a193c0d11df8"
       (reference "D41") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/2adffece-a421-40e0-9efe-d1937ce59cd9"
+    (path "/124c3b37-874e-4c58-abfb-e1168c7d431e"
       (reference "D42") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/679b26a2-c0eb-48b8-a2e6-6f972a36ac71"
+    (path "/b4d145d4-3a26-4300-9874-fb678e2f43d2"
       (reference "D43") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/547b9455-9dca-4c69-9697-c6d54da14ab7"
+    (path "/c4600fe6-671e-4c88-98a6-da43a94b4c51"
       (reference "D44") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/137c7ca5-8e04-45e2-bbce-d58ae5ac5b4c"
+    (path "/94479943-d985-4637-a4f3-2646a886d5fe"
       (reference "D45") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/3dfc088e-61c3-4b51-bb11-5581a6ce3b23"
+    (path "/e568f2b4-b967-4e9d-9ad7-67d38c9bbdd3"
       (reference "D46") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/b4d145d4-3a26-4300-9874-fb678e2f43d2"
+    (path "/93be5d6a-844e-46ab-9338-4a8464809c4c"
       (reference "D47") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/4c1d6d92-daf2-42d5-b640-fadaade7bb59"
+    (path "/0347273d-52eb-4f38-9238-4576626e3156"
       (reference "D48") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/156a35b2-8080-444e-b96f-a6502c53eb5e"
+    (path "/4efcbda6-b737-408b-8065-25fc40df551e"
       (reference "D49") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/70ac4a81-235c-4347-83c0-1355e08247ea"
+    (path "/029ef535-20e2-41fa-ab7f-726b74a9556c"
       (reference "D50") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/e8fd67ba-716f-488f-b502-6ec2cb2f6d01"
+    (path "/12c315da-17d9-4937-a754-3126193a77e1"
       (reference "D51") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/7545f12b-988b-401b-bd5d-77dfe0c33934"
+    (path "/faefadc2-fa97-49bf-8ca3-dcee561a622a"
       (reference "D52") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/46f1ae8e-b99e-4c02-898c-79cc250f250f"
+    (path "/3ebf2033-aa4d-4602-9362-ab6b6c4bb34a"
       (reference "D53") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/d9251e78-e01b-4cd2-82a8-06fadb30e9c3"
+    (path "/4c1d6d92-daf2-42d5-b640-fadaade7bb59"
       (reference "D54") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/124c3b37-874e-4c58-abfb-e1168c7d431e"
+    (path "/52b74b79-9202-44c8-8150-ea5828c788eb"
       (reference "D55") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/52b74b79-9202-44c8-8150-ea5828c788eb"
+    (path "/5f5bb3a3-b07c-426e-92a4-05af509a8725"
       (reference "D56") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/8c076101-5bdf-4c19-8704-ab963ea98a72"
+    (path "/6c8e0456-9bb8-459d-8a06-1f1f1f443b5c"
       (reference "D57") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/7b586b11-7357-42a4-83bd-2cf3bccb32b1"
+    (path "/8c076101-5bdf-4c19-8704-ab963ea98a72"
       (reference "D58") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/7bf3d9fe-6f82-4911-8782-37b2fc8283d0"
+    (path "/156a35b2-8080-444e-b96f-a6502c53eb5e"
       (reference "D59") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/576a79f1-c7bd-4b0d-87ff-9e98aa711eaa"
+    (path "/08dfa5c4-cd5f-40c0-8304-c26b639c515f"
       (reference "D60") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/f8df9ccd-3a7a-45f2-a1d2-22358681c7af"
+    (path "/5664994b-375e-4ce8-8c8e-19b475e32d02"
       (reference "D61") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/487486bb-4386-45f4-8f5e-3526b32157a6"
+    (path "/e2af21bc-49cb-4055-8473-5edcca2e62e2"
       (reference "D62") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/b0f1dd2d-ad9e-4a2f-98de-a193c0d11df8"
+    (path "/557cf1a7-9773-47f1-b83d-b9cab5556cb0"
       (reference "D63") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
-    (path "/5f5bb3a3-b07c-426e-92a4-05af509a8725"
+    (path "/80a2d343-f579-456f-9c5a-3e45c1825913"
       (reference "D64") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/6c8e0456-9bb8-459d-8a06-1f1f1f443b5c"
-      (reference "D65") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/747181f7-c7c1-464c-a385-7c72b8faff1e"
       (reference "FB1") (unit 1) (value "120R") (footprint "Inductor_SMD:L_0603_1608Metric")
